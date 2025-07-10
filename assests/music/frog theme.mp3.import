@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cnyh0tdtkberg"
+path="res://.godot/imported/frog theme.mp3-385f21e77ffd7b1559a1d81a5db54f61.mp3str"
+
+[deps]
+
+source_file="res://assests/music/frog theme.mp3"
+dest_files=["res://.godot/imported/frog theme.mp3-385f21e77ffd7b1559a1d81a5db54f61.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
